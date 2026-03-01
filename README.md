@@ -2,10 +2,9 @@
 
 
 ## Instalasi
-```bash
+
 # 1) Masuk sebagai root
-sudo su
-```
+
 ```bash
 # 2) Download Script GACS
 git clone https://github.com/achmad-pr/GenieACS-STB
