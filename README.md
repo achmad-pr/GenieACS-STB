@@ -3,7 +3,8 @@
 
 ## Instalasi
 ```bash
-# 1) Masuk sebagai root
+# 1) Update dan Upgrade Repo
+apt update && apt upgrade -y
 ```
 ```bash
 # 2) Download Script GACS
