@@ -2,7 +2,7 @@
 
 
 ## Instalasi
-
+```bash
 # 1) Masuk sebagai root
 
 ```bash
