@@ -1,4 +1,4 @@
-# GACS — Non‑Docker Install For STB
+# GACS — Install For STB
 
 
 ## Instalasi
